@@ -1,0 +1,13 @@
+---
+title: "my_first_quarto"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Quarto exercise
+
+### Number 1
+*This* is sooooo **boring**
